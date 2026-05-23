@@ -25,7 +25,7 @@ Aplikasi ini memiliki desain minimalis dengan dominasi warna merah dan cream yan
 ## Home Page
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7176f23-737a-4b9b-8e23-f8c04056ab87" width="250"/>
+  <img src="https://github.com/user-attachments/assets/0f86d1e3-0859-4c58-8f42-a359506e1118" width="250"/>
 </p>
 
 Halaman utama menampilkan:
@@ -52,7 +52,7 @@ Pengguna dapat mencari menu makanan atau minuman dengan mudah melalui search bar
 ## Halaman Menu
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2335bc4-cbfb-4652-bcf7-bbe800596f53" width="250"/>
+  <img src="https://github.com/user-attachments/assets/cd180f3d-e7fe-458d-86b3-2e1fb47b4f3a" width="250"/>
 </p>
 
 Halaman menu menampilkan berbagai daftar makanan dan minuman lengkap dengan:
@@ -76,7 +76,7 @@ Kategori menu yang tersedia:
 ## Menu Favorit
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90edb3c2-f63e-4d58-a7a7-47ef6bb6fc29" width="250"/>
+  <img src="https://github.com/user-attachments/assets/66dd680b-6a7b-42ce-974a-179b1d5ef89a" width="250"/>
 </p>
 
 Aplikasi menyediakan fitur favorit untuk menyimpan menu yang disukai pengguna.

@@ -29,12 +29,13 @@ Aplikasi ini memiliki desain minimalis dengan dominasi warna merah dan cream yan
 </p>
 
 Halaman utama menampilkan:
+
 - Pencarian menu favorit
 - Shortcut menu navigasi
 - Menu rekomendasi
 - Informasi suasana restoran
 - Lokasi restoran
-- Bottom Navigation
+- Navigasi bawah (Bottom Navigation)
 
 ---
 
@@ -55,6 +56,7 @@ Pengguna dapat mencari menu makanan atau minuman dengan mudah melalui search bar
 </p>
 
 Halaman menu menampilkan berbagai daftar makanan dan minuman lengkap dengan:
+
 - Foto menu
 - Rating menu
 - Harga menu
@@ -63,6 +65,7 @@ Halaman menu menampilkan berbagai daftar makanan dan minuman lengkap dengan:
 - Kategori menu
 
 Kategori menu yang tersedia:
+
 - Semua
 - Makanan
 - Minuman
@@ -87,6 +90,7 @@ Aplikasi menyediakan fitur favorit untuk menyimpan menu yang disukai pengguna.
 </p>
 
 Pengguna dapat melihat detail lengkap menu yang dipilih seperti:
+
 - Gambar menu ukuran besar
 - Nama menu
 - Harga menu
@@ -111,6 +115,7 @@ Aplikasi mendukung tampilan dark mode untuk memberikan kenyamanan saat digunakan
 # Desain Antarmuka
 
 Aplikasi menggunakan konsep UI modern dengan:
+
 - Warna dominan merah dan cream
 - Card menu modern
 - Rounded corner
@@ -123,11 +128,9 @@ Aplikasi menggunakan konsep UI modern dengan:
 # Teknologi yang Digunakan
 
 - Android Studio
-- Kotlin
-- Jetpack Compose
-- Material Design 3
-- Navigation Compose
-- SharedPreferences
+- Java / Kotlin
+- XML Layout
+- Material Design
 
 ---
 
@@ -139,4 +142,4 @@ Aplikasi menggunakan konsep UI modern dengan:
 4. Jalankan aplikasi pada emulator atau perangkat Android
 
 ```bash
-git clone https://github.com/username/eleven-eatery.git
+git clone https://github.com/ditaapriliani/UTSDita116-RestoranApp.git

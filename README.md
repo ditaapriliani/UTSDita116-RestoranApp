@@ -100,6 +100,36 @@ Pengguna dapat melihat detail lengkap menu yang dipilih seperti:
 
 ---
 
+## Profile Screen
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a81f2b0c-4345-4e1a-8a47-f71820747325" width="250"/>
+</p>
+
+Halaman profil menampilkan informasi restoran seperti:
+- Nama restoran
+- Alamat restoran
+- Deskripsi restoran
+- Jam operasional
+- Toggle dark mode
+- Foto profil restoran
+- Tombol edit profil
+Pengguna juga dapat mengganti foto profil restoran dengan memilih gambar langsung dari galeri perangkat.
+
+---
+
+## Edit Profile Screen
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c3505bc-9ddf-4608-85b9-a49f40cfdce1" width="250"/>
+</p>
+
+Pengguna dapat mengedit informasi restoran melalui form modern menggunakan OutlinedTextField seperti:
+- Nama restoran
+- Alamat
+- Deskripsi
+- Jam buka
+
 ## Dark Mode
 
 Aplikasi mendukung tampilan dark mode untuk memberikan kenyamanan saat digunakan pada kondisi minim cahaya.
